@@ -1,0 +1,17 @@
+# PIM-Joao
+
+comando para ssh = # Para gerar um par de chaves
+ssh-keygen -t ed25519 -C "seu_email@example.com"
+
+# Por padrão, será gerado:
+# ~/.ssh/id_ed25519       -> chave privada (não compartilhe!)
+# ~/.ssh/id_ed25519.pub   -> chave pública (essa você adiciona ao Git)
+
+
+navegar ate disco C: 
+abrir Usuarios
+selecionar seu usuario
+abrir pasta .ssh
+abrir arquivo 
+id_ed25519.pub ou algo do tipo
+
